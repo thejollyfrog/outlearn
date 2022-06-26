@@ -1,0 +1,53 @@
+<svg width="158.12mm" height="122.34mm" version="1.1" viewBox="0 0 158.12 122.34" xmlns="http://www.w3.org/2000/svg">
+ <path d="m45.16 54.934 3.437 1.9844-18.994 32.898-3.437-1.9844z" fill="#520"/>
+ <path d="m50.418 99.816-50.233-1e-5 25.116-53.978z" fill="#702b00"/>
+ <rect x="3.683" y="13.603" width="42.711" height="33.64" fill="#803300"/>
+ <path d="m19.388 13.603h-15.708l7.8538-13.603 3.9269 6.8016z" fill="#520"/>
+ <ellipse cx="14.465" cy="34.032" rx="4.1534" ry="2.7495" fill="#fff"/>
+ <path d="m46.398 13.603h-15.708l7.8538-13.603 3.9269 6.8016z" fill="#520"/>
+ <ellipse cx="36.968" cy="34.032" rx="4.1534" ry="2.7495" fill="#fff"/>
+ <path d="m12.226 76.878h13.266l13.266-1e-6 -13.266 22.977-6.633-11.489z" fill="#fff"/>
+ <path d="m3.5964 47.243 21.399-1e-6h21.399l-21.399 17.41-10.699-8.7051z" fill="#803300"/>
+ <ellipse cx="25.268" cy="49.664" rx="15.459" ry="8.544" fill="#a13f00"/>
+ <path d="m31.308 41.71h-11.966l5.9828 6.5828 2.9914-3.2914z" stroke-width=".79703"/>
+ <path d="m25.328 48.291v5.1349s3.7094 3.6925 9.3519 2.8051" fill="none" stroke="#000" stroke-width=".22481px"/>
+ <path d="m25.328 48.291v5.1349s-3.7094 3.6925-9.3519 2.8051" fill="none" stroke="#000" stroke-width=".22481px"/>
+ <circle cx="13.32" cy="34.374" r="2.5391"/>
+ <circle cx="35.998" cy="34.374" r="2.5391"/>
+ <rect y="99.816" width="6.0476" height="18.71" fill="#702b00"/>
+ <rect x="44.378" y="99.816" width="6.0476" height="18.71" fill="#702b00"/>
+ <rect x="7.635" y="99.816" width="6.0476" height="6.6146" fill="#520"/>
+ <rect x="36.478" y="99.816" width="6.0476" height="6.6146" fill="#520"/>
+ <path d="m16.521 13.603h-11.78l5.8898-10.201 2.9449 5.1007z" fill="#2b1100"/>
+ <path d="m44.868 13.603h-11.78l5.8898-10.201 2.9449 5.1007z" fill="#2b1100"/>
+ <circle cx="17.746" cy="46.676" r=".75595"/>
+ <circle cx="19.448" cy="50.645" r=".75595"/>
+ <circle cx="14.722" cy="49.133" r=".75595"/>
+ <circle cx="19.448" cy="50.645" r=".75595"/>
+ <circle cx="19.448" cy="50.645" r=".75595"/>
+ <circle cx="29.458" cy="50.645" r=".75595"/>
+ <circle cx="32.298" cy="47.243" r=".75595"/>
+ <circle cx="34.568" cy="49.889" r=".75595"/>
+ <path d="m12.226 13.535h26.532l-13.266 22.977-6.633-11.489z" fill="#fff"/>
+ <ellipse cx="3.062" cy="118.78" rx="2.94" ry="2.3663" fill="#803300"/>
+ <ellipse cx="47.428" cy="118.78" rx="2.94" ry="2.3663" fill="#803300"/>
+ <g fill="#520">
+  <ellipse cx="10.68" cy="106.22" rx="2.94" ry="2.3663"/>
+  <ellipse cx="39.408" cy="106.22" rx="2.94" ry="2.3663"/>
+  <g>
+   <ellipse cx="71.354" cy="98.975" rx="8.52" ry="5.2657" style="paint-order:markers stroke fill"/>
+   <rect x="62.763" y="112.55" width="17.183" height="9.238" style="paint-order:markers stroke fill"/>
+   <path d="m71.354 52.511 7.682 13.306-7.682 1e-6 -7.682-1e-6 3.841-6.6528z" style="paint-order:markers stroke fill"/>
+   <rect x="65.719" y="74.128" width="11.27" height="11.27" style="paint-order:markers stroke fill"/>
+  </g>
+ </g>
+ <g fill="#000000" font-family="sans-serif" letter-spacing="0px" word-spacing="0px">
+  <g font-size="8.4152px" stroke-width=".21038">
+   <text x="90.611092" y="65.493851" style="line-height:1.25" xml:space="preserve"><tspan x="90.611092" y="65.493851" stroke-width=".21038">Anxious/worried</tspan></text>
+   <text x="89.850929" y="84.019447" style="line-height:1.25" xml:space="preserve"><tspan x="89.850929" y="84.019447" stroke-width=".21038">Relaxed/content</tspan></text>
+   <text x="90.611092" y="102.06018" style="line-height:1.25" xml:space="preserve"><tspan x="90.611092" y="102.06018" stroke-width=".21038">Angry/afraid</tspan></text>
+  </g>
+  <text x="89.8358" y="112.93644" font-size="10.583px" stroke-width=".26458" style="line-height:1.25" xml:space="preserve"><tspan x="89.8358" y="122.30021" stroke-width=".26458"/></text>
+  <text x="89.850929" y="120.58578" font-size="8.4152px" stroke-width=".21038" style="line-height:1.25" xml:space="preserve"><tspan x="89.850929" y="120.58578" stroke-width=".21038">Excited/happy</tspan></text>
+ </g>
+</svg>

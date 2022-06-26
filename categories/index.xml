@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on Outlearn</title>
+    <link>https://outlearn.co.uk/categories/</link>
+    <description>Recent content in Categories on Outlearn</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 25 Apr 2021 22:40:42 +0000</lastBuildDate><atom:link href="https://outlearn.co.uk/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Activity</title>
+      <link>https://outlearn.co.uk/categories/activity/</link>
+      <pubDate>Sun, 25 Apr 2021 22:40:42 +0000</pubDate>
+      
+      <guid>https://outlearn.co.uk/categories/activity/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Environment</title>
+      <link>https://outlearn.co.uk/categories/environment/</link>
+      <pubDate>Thu, 11 Feb 2021 11:34:25 +0000</pubDate>
+      
+      <guid>https://outlearn.co.uk/categories/environment/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Schools</title>
+      <link>https://outlearn.co.uk/categories/schools/</link>
+      <pubDate>Thu, 02 Apr 2020 19:53:00 +0000</pubDate>
+      
+      <guid>https://outlearn.co.uk/categories/schools/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mental Health</title>
+      <link>https://outlearn.co.uk/categories/mental-health/</link>
+      <pubDate>Sun, 23 Feb 2020 14:07:00 +0000</pubDate>
+      
+      <guid>https://outlearn.co.uk/categories/mental-health/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Contingency</title>
+      <link>https://outlearn.co.uk/categories/contingency/</link>
+      <pubDate>Thu, 28 Feb 2019 21:16:46 +0000</pubDate>
+      
+      <guid>https://outlearn.co.uk/categories/contingency/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
