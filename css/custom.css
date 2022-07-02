@@ -362,6 +362,7 @@ iframe[title="YouTube Video"] {
 .docs-contents details summary {
     width: 100%;
     border-bottom: 1px solid #ccc;
+    user-select: none;
 }
 
 .docs-contents a{padding: 6px 10px; display: inline-block;}
